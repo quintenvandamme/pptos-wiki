@@ -21,7 +21,7 @@ auroraOS is the new pptos for Windsoft Studio, then the pptos be will have movab
 
 ### Aurora 1
 
-Aurora 1 was the first version for auroraOS series, this version was development.
+Aurora 1 was the first version for auroraOS series, this version is coming in 10th December.
 
 #### Screenshot
 
