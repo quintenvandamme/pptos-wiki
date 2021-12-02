@@ -8,7 +8,7 @@
 You can view any PowerPoint OS here, and also download them. If something's missing, please contribute via GitHub and add the missing details/PPTOSes. 
 Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk with the PPTOS members.
 
-- View the archive from 78 users [here](https://hexa-one.github.io/pptos-wiki/archive/).
+- View the archive from 85 users [here](https://hexa-one.github.io/pptos-wiki/archive/).
 
 - View the archived PPTOS videos [here](https://archive.org/details/pptoswiki_video).
 
