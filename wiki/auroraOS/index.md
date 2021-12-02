@@ -21,7 +21,7 @@ auroraOS is the new pptos for Windsoft Studio, then the pptos be will have movab
 
 ### Aurora 1
 
-Aurora 1 was the first version for auroraOS series, this version is coming in 10th December.
+Aurora 1 was the first version for auroraOS series, this version was released in 2 December on Discord.
 
 #### Screenshot
 
@@ -33,7 +33,7 @@ Aurora 1 was the first version for auroraOS series, this version is coming in 10
 
    - Aurora 1
 
-      - Not available 
+      - [Released to Public](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Aurora_OS/Aurora_1_RTP.zip)
       
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
 
