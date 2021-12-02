@@ -60,11 +60,11 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
 - [PPTGames](https://github.com/PPTGames)
   - [Lendows](wiki/Lendows) Lendows is a feature rich PowerPoint OS. 
 - [Windsoft Technology](https://github.com/Windsoft01)
-  - [Wind OS](wiki/Wind_OS) Wind OS is a new PowerPoint OS.
-  - [Kind OS](wiki/Kind_OS) KindOS is a rebirth PowerPoint OS.
+  - [Wind OS](wiki/Wind_OS) WindOS is a PowerPoint OS that was abandoned.
+  - [Kind OS](wiki/Kind_OS) KindOS is a PowerPoint OS that was abandoned.
   - [Vimvows(Windsoft)](wiki/Vimvows(Windsoft)) Vimvows Windsoft series is made by windsoft
   - [OneOS](wiki/OneOS/)
-  - [auroraOS](wiki/auroraOS/)
+  - [auroraOS](wiki/auroraOS/) a have some features and new PPT OS.
 - [Neonnew](https://github.com/neonnew)
   - [neonOS](wiki/NeonOS) 
 - [SwordCube Tech](https://github.com/swordcube)
