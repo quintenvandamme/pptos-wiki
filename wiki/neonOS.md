@@ -12,12 +12,12 @@
 
 |                           |                               |
 | ------------------------- | ----------------------------- |
-| **Programmed In**         | PowerPoint                    |
-| **OS Family**             | neonOS                        |
+| **Programmed In**         | PowerPoint VBA                  |
+| **OS Family**             | neonOS Classic                        |
 | **First Release**         | Neon OS 0.0.1                 |
-| **Latest OS Development** | neonOS 2 Preview (Codename : NovSnap) |
+| **Latest OS Development** | neonOS 2 Preview (Codename : DevSnap) |
 | **Latest Stable Release** | neonOS 1X                     |
-![140642490-737bffe9-593e-40ca-a81d-a3b72843c6cf](https://user-images.githubusercontent.com/58103738/140642518-bbe73423-4c5e-4378-9c78-52926ade80a4.png)
+
 
 ### About
 neonOS is the new PPTOS and a pretty good PPTOS because now it have VBA.
@@ -61,7 +61,14 @@ neonOS is the new PPTOS and a pretty good PPTOS because now it have VBA.
 ### neonOS Codename: Fluent 2 (Bulid 210910)
  - Removed nNews
  - Updated Dock
-
+### neonOS 2
+ - Futro UI
+ - First neonOS have VBA
+ - Notepad
+ - Calculator
+ - Internet Explorer
+ - Table
+ - 
 #### Logo
 
 |<a><img height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/131006998-2e8d0749-85c0-482c-97cf-2d403d50426d.png" /></a>|<a><img height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/140642490-737bffe9-593e-40ca-a81d-a3b72843c6cf.png" /></a>|
