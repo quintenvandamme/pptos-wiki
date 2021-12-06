@@ -66,7 +66,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
   - [OneOS](wiki/OneOS/)
   - [auroraOS](wiki/auroraOS/) a have some features and new PPT OS.
 - [Neonnew](https://github.com/neonnew)
-  - [neonOS](wiki/NeonOS) 
+  - [neonOS](wiki/neonOS) 
 - [SwordCube Tech](https://github.com/swordcube)
   - [Blade](wiki/Blade/) Blade is a PowerPoint OS that's currently in development.
 - [Rohan](https://github.com/Rohan287)
