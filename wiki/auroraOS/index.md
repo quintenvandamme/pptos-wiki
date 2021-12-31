@@ -12,8 +12,8 @@
 | **Programmed In**         | PowerPoint VBA                |
 |**OS Family**             | auroraOS                      |
 | **First Release**         | auroraOS 1                  |
-| **Latest OS Development** | auroraOS 2                      |
-| **Latest Stable Release** | No released                   |
+| **Latest OS Development** | auroraOS 2 (Codename: Uranus)|
+| **Latest Stable Release** | auroraOS 1                  |
 
 ### auroraOS
 
@@ -21,7 +21,11 @@ auroraOS is the new pptos for Windsoft Technology, then the pptos be will have m
 
 ### auroraOS 1
 
-auroraOS 1 was the first version for auroraOS series, this version is coming in 10th December.
+auroraOS 1 was the first version for auroraOS series, this version was released in 2nd December.
+
+### auroraOS 2 (Codename: Uranus)
+
+auroraOS 2 (Codename: Uranus) was the second version for auroraOS series, this version in developing.
 
 #### Screenshot
 
