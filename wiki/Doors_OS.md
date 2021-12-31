@@ -8,9 +8,9 @@
 
 |                           |                               |
 | ------------------------- | ----------------------------- |
-| **Programmed In**         | PowerPoint                    |
+| **Programmed In**         | Manix                         |
 | **OS Family**             | Doors                         |
-| **First OS Development**  | win11S beta                    |
+| **First OS Development**  | win11S beta                   |
 | **First Release**         | still in beta                 |
-| **Latest OS Development** | Doors1.0 Builf                    |
-| **Latest Stable Release** | /                             |
+| **Latest OS Development** | Doors1.0 Build                |
+| **Latest Stable Release** | DoorsOS Confindential Build 1 |
