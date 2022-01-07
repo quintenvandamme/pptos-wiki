@@ -15,7 +15,7 @@
 | **First OS Development**  | JupiterOS Build 110           |
 | **First Release**         | JupiterOS1                    |
 | **Latest OS Development** | JupiterOS 4 (Codename Lemon)  |
-| **Latest Stable Release** | JupiterOS 2                   |
+| **Latest Stable Release** | JOS4 Build 11                 |
 
 ### JupiterOS
 
@@ -55,13 +55,6 @@ JupiterOS 4 Lemon is the forth version of JOS and is in development However Buil
   - [JupiterOS 2.0 Beta](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Jupiter_OS/Build_521_Public_Beta.ppsx)
   - [JupiterOS 2.0 Release](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Jupiter_OS/Build_621_Release.ppsx)
 
-#### Download JupiterOS Software
-
-- BonBonStudiosEditor (Not Realeased)
-
--JupiterVM (Not Released) 
-
--Five Nights With Mikes (Released)Only On JOS 3
 
 #### Screenshots
 
