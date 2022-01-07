@@ -1,6 +1,6 @@
-  <p style=""><a href="https://hexa-one.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <p style=""><a href="https://quintenvandamme.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <a href="https://hexa-one.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
+    <a href="https://quintenvandamme.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
 
   </p>
 
@@ -37,7 +37,7 @@ auroraOS 2 (Codename: Uranus) was the second version for auroraOS series, this v
 
    - auroraOS 1
 
-      - [Released to Public](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Aurora_OS/AuroraOS%201%20RTP.zip)
+      - [Released to Public](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Aurora_OS/AuroraOS%201%20RTP.zip)
       
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
 

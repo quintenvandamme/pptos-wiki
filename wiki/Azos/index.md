@@ -1,6 +1,6 @@
 <blockquote style="background: #0000;border-bottom: 1px solid #B2D2E1;height: 30px;margin: 0 -20px 20px;padding: 0px 20px 9px 40px;">
-  <p style=""><a href="https://hexa-one.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://hexa-one.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
+  <p style=""><a href="https://quintenvandamme.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://quintenvandamme.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
   </p>
 </blockquote>
 
@@ -39,7 +39,7 @@ On Early 2014 Azos Technologies post a very strange post - "EX-LIMA The Future A
 
 <code style="background: #c1c1c1;border-radius: 5px;padding: 2px;">YOU ARE NOT ANSWERED? We will answer it for you! It is indonesian language lima means five and we spell x as ex... The future is the codename of the next version of azos, X5... This is our secret since two month ago.</code>
 
-#### [Azos X5 - The Future](https://hexa-one.github.io/pptos-wiki/wiki/Azos/Azos_X5)
+#### [Azos X5 - The Future](https://quintenvandamme.github.io/pptos-wiki/wiki/Azos/Azos_X5)
 
 On November 14th 2013 Azos Technologies has planned for the next 15 generations of Azos. It has codename The Future. It was named Azos XV but Azos X5 is a modern PowerPoint OS. So it was named Azos X5. With several new feature: Zossi, Narrazion, Reset Azos, New Icon Style, and more.
 
@@ -51,7 +51,7 @@ Azos X6 development was started before Azos X5 out. It has a very different UI t
 
 Azos X7 is out on March 2014, It has a Almost Similar UI With Azos X6. But Azos X7 included some improvements such as: profile picture changer, a new PC Settings layout, added Makappz, and updated Zinternet. It's Now available on the [Azos official site](https://web.archive.org/web/20141219222722/http://azos.weebly.com/). µ
 
-#### [Azos X8 - Jasmine](https://hexa-one.github.io/pptos-wiki/wiki/Azos/Azos_X8)
+#### [Azos X8 - Jasmine](https://quintenvandamme.github.io/pptos-wiki/wiki/Azos/Azos_X8)
 
 Azos X8 Development took around 5 month or less. This Azos version contain the biggest improvement since X7. But suddenly on middle of summer 2014 the project halted. However it is Azos continue it again and even release it. It's now available on the Azos official site. 
 

@@ -1,6 +1,6 @@
 <blockquote style="background: #0000;border-bottom: 1px solid #B2D2E1;height: 30px;margin: 0 -20px 20px;padding: 0px 20px 9px 40px;">
-  <p style=""><a href="https://hexa-one.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://hexa-one.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
+  <p style=""><a href="https://quintenvandamme.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://quintenvandamme.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
   </p>
 </blockquote>
 
@@ -14,17 +14,17 @@
 
 |Name|Codename|Release Date|
 |-|-|-|
-|[TTOS One Version Edition (OVE)](https://hexa-one.github.io/pptos-wiki/wiki/TTOS/TTOS_OVE) (cancelled)|Oneversion|Cancelled|
-|[TTOS 9](https://hexa-one.github.io/pptos-wiki/wiki/TTOS/Scrapped_TTOS_versions) (cancelled)|N/A|Cancelled|
-|[TTOS 8](https://hexa-one.github.io/pptos-wiki/wiki/TTOS/Scrapped_TTOS_versions) (cancelled)|N/A|Cancelled|
-|[TTOS 7](https://hexa-one.github.io/pptos-wiki/wiki/TTOS/Scrapped_TTOS_versions) (cancelled)|N/A|Cancelled|
-|[TTOS 6](https://hexa-one.github.io/pptos-wiki/wiki/TTOS/Scrapped_TTOS_versions) (cancelled)|N/A|Cancelled|
-|[TTOS 5](https://hexa-one.github.io/pptos-wiki/wiki/TTOS/Scrapped_TTOS_versions) (cancelled)|N/A|Cancelled|
-|[TTOS 4](https://hexa-one.github.io/pptos-wiki/wiki/TTOS/Scrapped_TTOS_versions) (cancelled)|N/A|Cancelled|
-|[TTOS 3](https://hexa-one.github.io/pptos-wiki/wiki/TTOS/TTOS_3) (cancelled)|Ending|Cancelled|
-|[TTOS 2](https://hexa-one.github.io/pptos-wiki/wiki/TTOS/TTOS_2)|Boxes|September 6, 2015|
-|[TTOS 1.0](https://hexa-one.github.io/pptos-wiki/wiki/TTOS/TTOS_1.0)|Legend|August 15, 2015|
-|[TTOS Prototype or 0.0](https://hexa-one.github.io/pptos-wiki/wiki/TTOS/TTOS_Prototype)|Prototype|June 29, 2015|
+|[TTOS One Version Edition (OVE)](https://quintenvandamme.github.io/pptos-wiki/wiki/TTOS/TTOS_OVE) (cancelled)|Oneversion|Cancelled|
+|[TTOS 9](https://quintenvandamme.github.io/pptos-wiki/wiki/TTOS/Scrapped_TTOS_versions) (cancelled)|N/A|Cancelled|
+|[TTOS 8](https://quintenvandamme.github.io/pptos-wiki/wiki/TTOS/Scrapped_TTOS_versions) (cancelled)|N/A|Cancelled|
+|[TTOS 7](https://quintenvandamme.github.io/pptos-wiki/wiki/TTOS/Scrapped_TTOS_versions) (cancelled)|N/A|Cancelled|
+|[TTOS 6](https://quintenvandamme.github.io/pptos-wiki/wiki/TTOS/Scrapped_TTOS_versions) (cancelled)|N/A|Cancelled|
+|[TTOS 5](https://quintenvandamme.github.io/pptos-wiki/wiki/TTOS/Scrapped_TTOS_versions) (cancelled)|N/A|Cancelled|
+|[TTOS 4](https://quintenvandamme.github.io/pptos-wiki/wiki/TTOS/Scrapped_TTOS_versions) (cancelled)|N/A|Cancelled|
+|[TTOS 3](https://quintenvandamme.github.io/pptos-wiki/wiki/TTOS/TTOS_3) (cancelled)|Ending|Cancelled|
+|[TTOS 2](https://quintenvandamme.github.io/pptos-wiki/wiki/TTOS/TTOS_2)|Boxes|September 6, 2015|
+|[TTOS 1.0](https://quintenvandamme.github.io/pptos-wiki/wiki/TTOS/TTOS_1.0)|Legend|August 15, 2015|
+|[TTOS Prototype or 0.0](https://quintenvandamme.github.io/pptos-wiki/wiki/TTOS/TTOS_Prototype)|Prototype|June 29, 2015|
 
 ### Logos
 
@@ -35,7 +35,7 @@
 #### Downloads
 
 - TTOS
-  - [TTOS 1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/TTOS/ttos1.0.pptx)
-  - [TTOS 2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/TTOS/ttos2.pptx)
+  - [TTOS 1](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/TTOS/ttos1.0.pptx)
+  - [TTOS 2](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/TTOS/ttos2.pptx)
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

@@ -1,6 +1,6 @@
 <blockquote style="background: #0000;border-bottom: 1px solid #B2D2E1;height: 30px;margin: 0 -20px 20px;padding: 0px 20px 9px 40px;">
-  <p style=""><a href="https://hexa-one.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://hexa-one.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
+  <p style=""><a href="https://quintenvandamme.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://quintenvandamme.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
   </p>
 </blockquote>
 
@@ -58,7 +58,7 @@ you can go check their YouTube channels or searching #powerpointos. alr thats al
   <p>Notepad app</p>
 </blockquote>
 <blockquote>
-  <a style="color: #222;">Zenix OS Atom Redesign 1</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zenix_OS/Zenix_OS_Atom_Restarted.pptm">Download</a>
+  <a style="color: #222;">Zenix OS Atom Redesign 1</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zenix_OS/Zenix_OS_Atom_Restarted.pptm">Download</a>
   <img src="https://user-images.githubusercontent.com/58103738/129169359-f37d58a1-fe66-4f1f-acb8-fd3a31dddde7.png" alt="11">
   <p>Zenix OS Atom Redesign 1 beta setup</p>
   <img src="https://user-images.githubusercontent.com/58103738/129169392-cf7ec434-8269-42b7-bdf4-42c02abe8412.png" alt="11">
@@ -67,7 +67,7 @@ you can go check their YouTube channels or searching #powerpointos. alr thats al
   <p>Start Menu</p>
 </blockquote>
 <blockquote>
-      <a style="color: #222;">Zenix OS Atom Original (Canceled)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zenix_OS/Zenix_OS_Atom.pptm">Download</a>
+      <a style="color: #222;">Zenix OS Atom Original (Canceled)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zenix_OS/Zenix_OS_Atom.pptm">Download</a>
   <img src="https://user-images.githubusercontent.com/58103738/129173943-c43b1f0d-f7a9-499b-b439-da59e2ea2219.png" alt="11">
   <p>Zenix OS Atom Original (Canceled) desktop</p>
   <img src="https://user-images.githubusercontent.com/58103738/129173976-2c1bf551-9c15-4e54-993a-7c22c2cfe692.png" alt="11">
@@ -76,7 +76,7 @@ you can go check their YouTube channels or searching #powerpointos. alr thats al
   <p>word app</p>
 </blockquote>
 <blockquotes>
-  <a style="color: #222;">Coupertino (Pre Atom)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zenix_OS/Zenix_OS_Cupertino.pptm">Download</a>
+  <a style="color: #222;">Coupertino (Pre Atom)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zenix_OS/Zenix_OS_Cupertino.pptm">Download</a>
   <img src="https://user-images.githubusercontent.com/58103738/129169947-50723ff3-71a1-4166-963d-0faddc49020e.png" alt="11">
   <p>Coupertino (Pre Atom) beta Setup</p>
   <img src="https://user-images.githubusercontent.com/58103738/129169970-7c9be380-4ef7-4594-a276-a6b551532484.png" alt="11">
@@ -87,7 +87,7 @@ you can go check their YouTube channels or searching #powerpointos. alr thats al
   <p>file explorer</p>
 </blockquote>
 <blockquote>
-  <a style="color: #222;">Zenix OS 1.0</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zenix_OS/ZenixOS_1.0.pptm">Download</a>
+  <a style="color: #222;">Zenix OS 1.0</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zenix_OS/ZenixOS_1.0.pptm">Download</a>
   <img src="https://user-images.githubusercontent.com/58103738/129170662-0a92172b-2cab-4539-9c3e-2398c3c4f48a.png" alt="11">
   <p>Zenix OS 1.0 beta Setup</p>
   <img src="https://user-images.githubusercontent.com/58103738/129170692-192fb011-9a52-48e5-a66d-46e46a0a2289.png" alt="11">
@@ -100,7 +100,7 @@ you can go check their YouTube channels or searching #powerpointos. alr thats al
   <p>task view</p>
 </blockquote>
 <blockquote>
-  <a style="color: #222;">Zenix OS Ocean Wave Final</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zenix_OS/ZenixOS_Ocean_Wave_Pro_Original.pptm">Download</a>
+  <a style="color: #222;">Zenix OS Ocean Wave Final</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zenix_OS/ZenixOS_Ocean_Wave_Pro_Original.pptm">Download</a>
   <img src="https://user-images.githubusercontent.com/58103738/129171354-b7ecb9b9-3388-4bfc-85ba-0629f5055a1b.png" alt="11">
   <p>Zenix OS Ocean Wave Final setup</p>
   <img src="https://user-images.githubusercontent.com/58103738/129171387-d2fd9045-f12f-48f8-bc9c-9c1303b2e3a2.png" alt="11">
@@ -111,14 +111,14 @@ you can go check their YouTube channels or searching #powerpointos. alr thats al
   <p>Notepad final</p>
 </blockquote>
 <blockquote>
-  <a style="color: #222;">Zenix OS Ocean Wave Pre Release</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zenix_OS/Zenix_Os_Ocean_Wave_Beta.pptm">Download</a>
+  <a style="color: #222;">Zenix OS Ocean Wave Pre Release</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zenix_OS/Zenix_Os_Ocean_Wave_Beta.pptm">Download</a>
   <img src="https://user-images.githubusercontent.com/58103738/129172821-dcd8b92b-53b8-4dce-bd23-2224ae770938.png" alt="11">
   <p>desktop</p>
   <img src="https://user-images.githubusercontent.com/58103738/129172852-0a8d87a1-8641-40eb-9c92-388afb7c3e2b.png" alt="11">
   <p>notepad</p>
 </blockquote>
 <blockquote>
-  <a style="color: #222;">Zenix OS Chocolate Final</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zenix_OS/Os_test_1_-_Copy.pptm">Download</a>
+  <a style="color: #222;">Zenix OS Chocolate Final</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zenix_OS/Os_test_1_-_Copy.pptm">Download</a>
   <img src="https://user-images.githubusercontent.com/58103738/129173516-f6ad3cc4-558b-49c1-ad30-1ba976dc9ed1.png" alt="11">
   <p>desktop</p>
   <img src="https://user-images.githubusercontent.com/58103738/129173516-f6ad3cc4-558b-49c1-ad30-1ba976dc9ed1.png" alt="11">
@@ -127,7 +127,7 @@ you can go check their YouTube channels or searching #powerpointos. alr thats al
   <p>setup</p>
 </blockquote>
 <blockquote>
-  <a style="color: #222;">Zenix OS Candy Revisioned Final</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zenix_OS/ZenixOS_SP2.pptm">Download</a>
+  <a style="color: #222;">Zenix OS Candy Revisioned Final</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zenix_OS/ZenixOS_SP2.pptm">Download</a>
   <img src="https://user-images.githubusercontent.com/58103738/129172289-29771ac2-b32e-4f08-bd4a-c776d4abdc51.png" alt="11">
   <p>Zenix OS Candy Revisioned Final setup</p>
   <img src="https://user-images.githubusercontent.com/58103738/129172312-b2485dba-0091-43df-b94d-8d20ee605221.png" alt="11">

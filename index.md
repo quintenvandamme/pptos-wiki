@@ -1,6 +1,6 @@
 <blockquote style="background: #0000;border-bottom: 1px solid #B2D2E1;height: 30px;margin: 0 -20px 20px;padding: 0px 20px 9px 40px;">
-  <p style=""><a href="https://hexa-one.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://hexa-one.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
+  <p style=""><a href="https://quintenvandamme.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://quintenvandamme.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
   </p>
 </blockquote>
 
@@ -8,11 +8,11 @@
 You can view any PowerPoint OS here, and also download them. If something's missing, please contribute via GitHub and add the missing details/PPTOSes. 
 Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk with the PPTOS members.
 
-- View the archive from 93 users [here](https://hexa-one.github.io/pptos-wiki/archive/).
+- View the archive from 93 users [here](https://quintenvandamme.github.io/pptos-wiki/archive/).
 
 - View the archived PPTOS videos [here](https://archive.org/details/pptoswiki_video).
 
-- Check out zeqOS Chabazite U5 online (Beta) [here](https://hexa-one.github.io/pptos-wiki/viewer/Zeq_OS/ZeqOS_Chabazite_B155_U5).
+- Check out zeqOS Chabazite U5 online (Beta) [here](https://quintenvandamme.github.io/pptos-wiki/viewer/Zeq_OS/ZeqOS_Chabazite_B155_U5).
 
 Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.com/wiki/PPTOS_Wiki).
 
@@ -23,7 +23,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
 <blockquote style="margin: 0 440px 20px 20px;padding: 15px 20px 1px 32px;border-radius: 7px;border: 1px solid rgb(0,102,153,0.3);background: linear-gradient(#f1f1f1, #DEDEDE 15px);height: 80px;">
   <p style=""><a style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">ZeqOS Chabazite U5</a>
 
-  </p><p style=""><a style="font-size: 12px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;" href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U5_R.pptm">Download</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size: 12px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;" href="https://hexa-one.github.io/pptos-wiki/viewer/Zeq_OS/ZeqOS_Chabazite_B155_U5">Viewᵇᵉᵗᵃ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size: 10px;font-weight: 600;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">3.9mb</a>
+  </p><p style=""><a style="font-size: 12px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;" href="https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U5_R.pptm">Download</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size: 12px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;" href="https://quintenvandamme.github.io/pptos-wiki/viewer/Zeq_OS/ZeqOS_Chabazite_B155_U5">Viewᵇᵉᵗᵃ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size: 10px;font-weight: 600;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">3.9mb</a>
   </p>
 <div></div><div></div><blockquote style="margin: -20 440px 20px 20px;padding: 15px 20px 1px 32px;border-radius: 7px;border: 1px solid rgb(0,102,153,0.3);background: linear-gradient(#f1f1f1, #DEDEDE 15px);height: 80px;margin-top: -103.4px;margin-left: 240px;width: 180px;">
   <p style=""><a style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Windows 95 PPT</a>

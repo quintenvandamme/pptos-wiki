@@ -1,6 +1,6 @@
 <blockquote style="background: #0000;border-bottom: 1px solid #B2D2E1;height: 30px;margin: 0 -20px 20px;padding: 0px 20px 9px 40px;">
-  <p style=""><a href="https://hexa-one.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://hexa-one.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
+  <p style=""><a href="https://quintenvandamme.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://quintenvandamme.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
   </p>
 </blockquote>
 
@@ -105,13 +105,13 @@ WindOS 7.0(Codename: secret) was the sixth version, this version was development
 #### Downloads
 
 - WindOS
-    - [WindOS 1.0](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_1.0.pptm)
-    - [WindOS 1.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_1.1.ppsm)
-    - [WindOS 2.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/Wind_OS_2.0.pptm)
-    - [WindOS RD](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_RD.pptm)
-    - [WindOS 2021](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_2021.pptm)
-    - [WindOS Tiger](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_Tiger.pptm)
-    - [WindOS 6 Lion](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_6_Lion.pptm)
+    - [WindOS 1.0](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_1.0.pptm)
+    - [WindOS 1.1](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_1.1.ppsm)
+    - [WindOS 2.1](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Wind_OS/Wind_OS_2.0.pptm)
+    - [WindOS RD](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_RD.pptm)
+    - [WindOS 2021](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_2021.pptm)
+    - [WindOS Tiger](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_Tiger.pptm)
+    - [WindOS 6 Lion](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Wind_OS/WindOS_6_Lion.pptm)
     - [WindOS 7.0(Not available)]
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">

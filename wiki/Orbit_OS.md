@@ -1,6 +1,6 @@
 <blockquote style="background: #0000;border-bottom: 1px solid #B2D2E1;height: 30px;margin: 0 -20px 20px;padding: 0px 20px 9px 40px;">
-  <p style=""><a href="https://hexa-one.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://hexa-one.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
+  <p style=""><a href="https://quintenvandamme.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://quintenvandamme.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
   </p>
 </blockquote>
 
@@ -29,8 +29,8 @@ The first Orbit OS release was codenamed "Goldsmith", with ties to its colour sc
 
 #### Downloads
 
-- [ORBIT OS GoldSmith](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/Project_PowerPoint%2FOrbit%20OS%20GoldSmith%20Release%201.0%2030th%20June%202019.pptm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Viewᵇᵉᵗᵃ](https://hexa-one.github.io/pptos-wiki/viewer/Orbit_OS/OrbitOS_Goldsmith)
-- [Foundation 0.1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Orbit_OS/Foundation%200.1.pptm)
+- [ORBIT OS GoldSmith](https://archive.org/download/pptoswiki_archive_14_09_2021/pptoswiki_archive_14_09_2021.zip/Project_PowerPoint%2FOrbit%20OS%20GoldSmith%20Release%201.0%2030th%20June%202019.pptm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Viewᵇᵉᵗᵃ](https://quintenvandamme.github.io/pptos-wiki/viewer/Orbit_OS/OrbitOS_Goldsmith)
+- [Foundation 0.1](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Orbit_OS/Foundation%200.1.pptm)
 
 #### Screenshots
 

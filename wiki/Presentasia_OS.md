@@ -1,6 +1,6 @@
 <blockquote style="background: #0000;border-bottom: 1px solid #B2D2E1;height: 30px;margin: 0 -20px 20px;padding: 0px 20px 9px 40px;">
-  <p style=""><a href="https://hexa-one.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://hexa-one.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
+  <p style=""><a href="https://quintenvandamme.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://quintenvandamme.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
   </p>
 </blockquote>
 
@@ -92,14 +92,14 @@ On October 1st, 2014. **Presentasia OS|Presentasia** cancelled all of his projec
 
 #### Downloads
 
-- [Presentasia Developer - OS 8 v. 1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20Developer%20-%20OS%208%20v.%201.pptm)
-- [Presentasia OS 7 (v7.1)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%207%20(v7.1).ppsm)
-- [Presentasia OS 6.0 Squared](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%206.0%20Squared.ppsm)
-- [Presentasia OS 5.0 Kaleidoscope](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%205.0%20Kaleidoscope.ppsm)
-- [Presentasia OS 4.0 Matrix](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%204.0%20Matrix.ppsm)
-- [Presentasia OS 3.0 SnowBall](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%203.0%20SnowBall.ppsm)
-- [Presentasia OS 2.0 TreeFrog](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%20TreeFrog.ppsm)
-- [PresentasiaOSv1_0_1](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Presentasia_OS/PresentasiaOSv1_0_1.ppsm)
+- [Presentasia Developer - OS 8 v. 1](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20Developer%20-%20OS%208%20v.%201.pptm)
+- [Presentasia OS 7 (v7.1)](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%207%20(v7.1).ppsm)
+- [Presentasia OS 6.0 Squared](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%206.0%20Squared.ppsm)
+- [Presentasia OS 5.0 Kaleidoscope](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%205.0%20Kaleidoscope.ppsm)
+- [Presentasia OS 4.0 Matrix](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%204.0%20Matrix.ppsm)
+- [Presentasia OS 3.0 SnowBall](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%203.0%20SnowBall.ppsm)
+- [Presentasia OS 2.0 TreeFrog](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Presentasia_OS/Presentasia%20OS%20TreeFrog.ppsm)
+- [PresentasiaOSv1_0_1](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Presentasia_OS/PresentasiaOSv1_0_1.ppsm)
 
 
 #### videos

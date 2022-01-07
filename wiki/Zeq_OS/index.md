@@ -1,6 +1,6 @@
 <blockquote style="background: #0000;border-bottom: 1px solid #B2D2E1;height: 30px;margin: 0 -20px 20px;padding: 0px 20px 9px 40px;">
-  <p style=""><a href="https://hexa-one.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://hexa-one.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
+  <p style=""><a href="https://quintenvandamme.github.io/pptos-wiki/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://quintenvandamme.github.io/pptos-wiki/archive/" style="font-size: 17px;font-weight: 900;font-style: normal;text-shadow: rgba(255,255,255,0.9) 0 1px 0;">Archive</a>
   </p>
 </blockquote>
 
@@ -80,27 +80,27 @@ To be added.
 Missing build downloads can be found in their respective page.
 
 - zeqOS Chabazite
-  - [zeqOS_Chabazite_B155_B02_U5_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U5_R.pptm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Viewᵇᵉᵗᵃ](https://hexa-one.github.io/pptos-wiki/viewer/Zeq_OS/ZeqOS_Chabazite_B155_U5)
-  - [zeqOS_Chabazite_B155_B02_U4_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U4_R.pptm)
-  - [zeqOS_Chabazite_B155_B02_U3_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U3_R.pptm)
-  - [zeqOS_Chabazite_B155_B02_U2_R](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U2_R.pptm)
-  - [zeqOS_Chabazite_RTM-SECURE_U2](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_RTM-SECURE_U2.pptm)
-  - [zeqOS_Chabazite_RTM-SECURE](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_RTM-SECURE.pptm)
-  - [zeqOS_Chabazite_B90_B02_Pro [Beta]](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build90_B02_Pro.pptm)
+  - [zeqOS_Chabazite_B155_B02_U5_R](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U5_R.pptm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Viewᵇᵉᵗᵃ](https://quintenvandamme.github.io/pptos-wiki/viewer/Zeq_OS/ZeqOS_Chabazite_B155_U5)
+  - [zeqOS_Chabazite_B155_B02_U4_R](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U4_R.pptm)
+  - [zeqOS_Chabazite_B155_B02_U3_R](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U3_R.pptm)
+  - [zeqOS_Chabazite_B155_B02_U2_R](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_B155_B02_U2_R.pptm)
+  - [zeqOS_Chabazite_RTM-SECURE_U2](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_RTM-SECURE_U2.pptm)
+  - [zeqOS_Chabazite_RTM-SECURE](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Chabazite_RTM-SECURE.pptm)
+  - [zeqOS_Chabazite_B90_B02_Pro [Beta]](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build90_B02_Pro.pptm)
 
 - zeqOS Natrolite
-  - [Build34_B01_SP14](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP14.pptm)
-  - [Build34_B01_SP13](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP13.pptm)
-  - [Build34_B01_SP12](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP12.pptm)
-  - [Build34_B01_SP10](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP10.pptm)
-  - [Build34_B01_SP9](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP9.pptm)
-  - [Build34_B01_RTM](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_RTM.pptm)
+  - [Build34_B01_SP14](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP14.pptm)
+  - [Build34_B01_SP13](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP13.pptm)
+  - [Build34_B01_SP12](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP12.pptm)
+  - [Build34_B01_SP10](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP10.pptm)
+  - [Build34_B01_SP9](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_SP9.pptm)
+  - [Build34_B01_RTM](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/Build34_B01_RTM.pptm)
 
 - zeqOS Culebra
-  - [zeqOS_Culebra (Unofficial Remake) (by twg)](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Culebra_Rebuild.pptx)
+  - [zeqOS_Culebra (Unofficial Remake) (by twg)](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOS_Culebra_Rebuild.pptx)
 
 - zeqOS Makalu
-  - [zeqOSMakaluRTM](https://github.com/hexa-one/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOSMakaluRTM.pptm)
+  - [zeqOSMakaluRTM](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Zeq_OS/zeqOSMakaluRTM.pptm)
 
 #### Screenshots
 
