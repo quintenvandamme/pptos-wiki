@@ -6,7 +6,7 @@
 
 ## Welcome to the PPTOS Wiki!
 You can view any PowerPoint OS here, and also download them. If something's missing, please contribute via GitHub and add the missing details/PPTOSes. 
-Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk with the PPTOS members.
+Join [here](https://discord.gg/FAtAkCadDr) the Wiki's Discord Server to talk with the PPTOS members. This wiki page was made by hexaone, who has left our community.
 
 - View the archive from 93 users [here](https://quintenvandamme.github.io/pptos-wiki/archive/).
 
