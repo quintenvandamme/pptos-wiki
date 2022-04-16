@@ -46,8 +46,9 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
   Eminent OS was never fully developed and abandoned.
 - [Bence](https://github.com/ben21ce)
   - [Inter OS](wiki/Inter_OS)
-  - Nexton (Wiki page under development)
-  - Exon (Wiki page under development)
+  - Nexton (Wiki page doesn't exist yet)
+  - Exon (Wiki page doesn't exist yet)
+  - Exy (Wiki page doesn't exist yet)
 - Project: PowerPoint
   - [Orbit OS](wiki/Orbit_OS)
   Orbit OS is a PowerPoint OS with a lot of features.
