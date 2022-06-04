@@ -7,7 +7,7 @@
 ## NovaOS
 
 <a>
-  <img align="left" height="100" alt="pfp" src="#" />
+  <img align="left" height="100" alt="pfp" src="https://user-images.githubusercontent.com/88238063/172009093-5265e809-7fb6-4014-a23f-5adbbd02a6c2.png" />
 </a>
 
 ### What is NovaOS?
@@ -18,3 +18,6 @@
 ### Why NovaOS?
 
 - NovaOS is a PPTOS That Is Flexible and Open Source.
+
+## Screenshots
+![](https://user-images.githubusercontent.com/88238063/172010011-f8050416-0d52-4663-bfb2-318de2678527.png)
