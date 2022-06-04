@@ -10,9 +10,9 @@
   <img align="right" height="100" alt="pfp" src="https://user-images.githubusercontent.com/58103738/131461860-07be9eec-2b0f-47c0-8813-ce7517a50c98.png" />
 </a>
 
-**flooent.repo** or **Characters** (formerly ZaphkielCorp, BubbleSoft & PC, BubbleSoft Technologies and BubbleSoft) is a PowerPoint OS company (despite not being in PPTOSN) based in Argentina. It was founded in 2013-2014. Currently active by [flooent](https://pptos.fandom.com/wiki/User:WNRMaker100).
+**flooent.repo** (formerly ZaphkielCorp and BubbleSoft) is a PowerPoint OS company based in Argentina. The company was founded in 2013-2014 by [Chessie Miu](https://pptos.fandom.com/wiki/User:WNRMaker100). Currently it is migrating to Chessie's other company called Perano, and is expected to shutdown by July 1, 2022.
 
-Before founding the company, flooent ripped off another PowerPoint OS to edit in their own way, Which he called "Windows 6 1.6".
+Before founding the company, Chessie Miu ripped off another PowerPoint OS to edit in their own way, Which he called "Windows 6 1.6".
 
 Sites:
 - [bubblesoft123](https://sites.google.com/site/bubblesoft123)
@@ -56,7 +56,7 @@ This version is currently lost, And it can not be found anywhere.
 
 #### Bobcat
 
-After Bindows's descontinuation, flooent.repo tried to enter the "business" market with Bobcat, Which is supposed to be a more robust operating system based on it's scratch code.
+After Bindows's descontinuation, flooent.repo tried to enter the "business" market with Bobcat, Which is supposed to be a more robust operating system built from scratch.
 
 This operating system can be found in the Legacy Repository.
 
@@ -103,11 +103,11 @@ ChatNow is a chat service created by flooent.repo, It is available for Windows a
 
 #### bMusic and BubbleSoft Music
 
-bMusic and BubbleSoft Music was a music streaming service for Bindows 10, BubbleSoftOS and Bindows 8. The service was discontinued in Nov 26, 2016.
+bMusic and BubbleSoft Music was a music streaming service for Bindows 10, BubbleSoftOS and Bindows 8. The service was discontinued in Nov 26, 2016. There were plans to release another music service called DeltaMusic Online to be shipped with modernXP, but this never happened.
 
 #### Application Downloader
 
-Application Downloader was a store for older versions of modernXP. In there, You could download apps for modernXP. The store dissapeared for unknown reasons.
+Application Downloader was a store for older versions of modernXP. In there, You could download apps for modernXP. The store disappeared for unknown reasons.
 
 #### BubbleSoft Games
 
