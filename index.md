@@ -106,7 +106,7 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
 - Chara Dremurr
   - [Phoenix](wiki/Phoenix)
 - iDev
-  - [NovaOS](NovaOS)
+  - [NovaOS](wiki/NovaOS)
 - Team Elestia
   - ZerulaOS (Wiki page under development)
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
