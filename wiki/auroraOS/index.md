@@ -12,20 +12,24 @@
 | **Programmed In**         | PowerPoint VBA                |
 |**OS Family**             | auroraOS                      |
 | **First Release**         | auroraOS 1                  |
-| **Latest OS Development** | auroraOS 2 (Codename: Uranus)|
+| **Latest OS Development** | auroraOS 2 (Codename: White Orchids)|
 | **Latest Stable Release** | auroraOS 1                  |
 
 ### auroraOS
 
-auroraOS is the new pptos for Windsoft Technology, then the pptos be will have movable window system and new window design(auroraUI1)
+auroraOS is the new pptos for Windsoft Technology, then the pptos be will have movable window system and new window design.
 
 ### auroraOS 1
 
 auroraOS 1 was the first version for auroraOS series, this version was released in 2nd December.
 
-### auroraOS 2 (Codename: Uranus)
+### auroraOS Codename: Almandine(former：Uranus)
 
-auroraOS 2 (Codename: Uranus) was the second version for auroraOS series, this version in developing.
+auroraOS Codename: Almandine was a cancelled version for auroraOS series, auroraOS 2 (White Orchids) will replace this version.
+
+### auroraOS 2 (Codename: White Orchids)
+
+auroraOS 2 (Codename: White Orchids) is the second version for auroraOS series, this version are developing.
 
 #### Screenshot
 
