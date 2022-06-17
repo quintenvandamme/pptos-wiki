@@ -44,10 +44,11 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
   A PowerPoint OS that was abandoned.
   - [Eminent OS](wiki/Eminent_OS)
   Eminent OS was never fully developed and abandoned.
-- [Bence](https://github.com/ben21ce)
+- [Bence](https://github.com/VBence2008)
   - [Inter OS](wiki/Inter_OS)
   - Nexton (Wiki page under development)
   - Exon (Wiki page under development)
+  - Exy (Wiki page under development)
 - Project: PowerPoint
   - [Orbit OS](wiki/Orbit_OS)
   Orbit OS is a PowerPoint OS with a lot of features.
@@ -100,10 +101,12 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
 - GamerZingerBurger
   - [JupiterOS](wiki/Jupiter_OS) JupiterOS is The OS Made by Jupiter Inc.
   - [DoorsOS](wiki/Doors_OS)
-- [Hexa](https://github.com/hexa-one)
+- [Hexa](https://github.com/quintenvandamme)
   - [Ionix](wiki/Ionix_OS/)
 - Chara Dremurr
   - [Phoenix](wiki/Phoenix)
 - iDev
   - [NovaOS](wiki/NovaOS)
+- Team Elestia
+  - ZerulaOS (Wiki page under development)
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
