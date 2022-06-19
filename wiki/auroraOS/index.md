@@ -6,6 +6,7 @@
 
 ## auroraOS
 
+<img align="left" height="75" alt="pfp" src="https://user-images.githubusercontent.com/86305611/174484128-67a58afa-dfa8-4965-8f60-3d351fd5af0a.png" />
 
 |                           |                               |
 | ------------------------- | ----------------------------- |
@@ -17,7 +18,7 @@
 
 ### auroraOS
 
-auroraOS is the new pptos for Windsoft Technology, then the pptos be will have movable window system and new window design.
+auroraOS is a new pptos for Windsoft Technology, then the pptos be will have movable window system and new window design.
 
 ### auroraOS 1
 
@@ -33,7 +34,8 @@ auroraOS 2 (Codename: White Orchids) is the second version for auroraOS series, 
 
 #### Screenshot
 
-> Don't have screenshot 
+> auroraOS insider build's desktop 
+> s![Pic1](https://user-images.githubusercontent.com/86305611/174484225-f9a4fa11-a1b6-4c72-954c-3dfe138137c9.png) 
 
 #### Downloads
 
