@@ -15,7 +15,7 @@
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | inspireOS                     |
 | **First Release**         | InspireOS 1 Basic             |
-| **Latest OS Development** | inspireOS 3                   |
+| **Latest OS Development** | inspireOS 3 Kabalo            |
 | **Latest Stable Release** | InspireOS 2 Premium Gold Release 1|
 
 ### inspireOS
@@ -27,9 +27,9 @@ InspireOS 1 Basic was the first version of InspireOS, this version released in S
 #### InspireOS 2 Premium Gold
 InspireOS 2 Premium Gold was the second version of InspireOS, the version released in Friday July 30th 2021 at 12:40 pm on YouTube.
 
-#### inspireOS 3 Kailash
+#### inspireOS 3 Kabalo
 
-inspireOS 3 Kailash was the third version, this version is in development.
+inspireOS 3 Kabalo was the third version, this version is in development.
 
 #### Logo
 
@@ -55,7 +55,4 @@ inspireOS 3 Kailash was the third version, this version is in development.
       - [inspireos2_premiumgold_release1](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireos2_premiumgold_release1.pptm)
       - [inspireos2_premiumgold_lite](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireos2_premiumgold_lite.pptm)
 
-    - InspireOS 3
-      - [inspireOS3fuji1_canceled](https://github.com/quintenvandamme/pptos-wiki/raw/gh-pages/files/Inspire_OS/inspireOS3fuji1_canceled.pptx)
-
-<body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
+<body style="background-image: url([https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png](https://media.discordapp.net/attachments/972970432078692402/988835314061692928/test.png?width=840&height=473));background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
