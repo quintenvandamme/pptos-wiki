@@ -110,4 +110,6 @@ Some of the wiki pages are pulled from [pptos.fandom.com](https://pptos.fandom.c
 - Elestia
   - [ZerulaOS](wiki/ZerulaOS)
   - [ZerulaOS One](wiki/ZerulaOS/ZerulaOS-One)
+- [GalaxyDeem](https://github.com/GalaxyDeem)
+  - [BlueOS](wiki/BlueOS)
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
